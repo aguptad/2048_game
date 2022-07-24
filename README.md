@@ -1,4 +1,4 @@
 # 2048_game
 
-https://user-images.githubusercontent.com/106165854/180648663-99321def-bcd6-4031-972e-6b101813475a.mov
+https://user-images.githubusercontent.com/106165854/180648774-483a8ca5-9314-46ca-9d16-a2cccf8a7d59.mov
 
